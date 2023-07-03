@@ -1,5 +1,4 @@
 Console Chat (Final project for the first section)
-Еhe whole project was done independently
 Functionality of this chat:
 * Console program  
 * user registration - login, password, name  
